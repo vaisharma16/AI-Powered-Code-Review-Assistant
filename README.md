@@ -1,10 +1,4 @@
-Absolutely! Here's a polished `README.md` tailored for your **AI-Powered Code Review Assistant** project, ready for GitHub:
 
----
-
-### 📄 `README.md`
-
-```markdown
 # 🤖 AI-Powered Code Review Assistant
 
 A powerful Streamlit app that uses a fine-tuned [CodeT5-small](https://huggingface.co/Salesforce/codet5-small) transformer to automatically review Python code and provide structured suggestions on correctness, readability, and improvements.
